@@ -46,17 +46,16 @@
 ### GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mrahad0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=mrahad0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrahad0&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrahad0/mrahad0/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrahad0/mrahad0/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrahad0/mrahad0/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrahad0/mrahad0/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrahad0/mrahad0/output/pacman-contribution-graph-dark.svg">
   </picture>
 </div>
 
